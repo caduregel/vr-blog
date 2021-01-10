@@ -5,3 +5,5 @@ plugins:
   # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
+
+theme: jekyll-theme-cayman
