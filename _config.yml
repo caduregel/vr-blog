@@ -1,8 +1,11 @@
 # remote_theme: pmarsceill/just-the-docs
-theme: jekyll-theme-cayman
+theme: just-the-docs
 
 plugins:
   - jekyll-feed
   # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
+
+title: [The title of your site]
+description: [A short description of your site's purpose]
